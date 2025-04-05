@@ -11,5 +11,7 @@ https://colab.research.google.com/drive/1jRmUI4W2Y1WytF2JmKjKcsaBk1fgKuVA?usp=sh
 
 ### Lista de Exercícios Operadores Lógicos e Relacionais
 
-https://colab.research.google.com/drive/1LrC0EN6EH9iep9pCD9r_wpVV9ZsjPRvI?usp=sharing
+Exemplos: https://colab.research.google.com/drive/1LrC0EN6EH9iep9pCD9r_wpVV9ZsjPRvI?usp=sharing
+
+Lista: https://colab.research.google.com/drive/14PF_73lr6Ffd54IEbx2am6y8cTPAL4Y3?usp=sharing
 
