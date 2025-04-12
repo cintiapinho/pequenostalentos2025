@@ -15,3 +15,7 @@ Exemplos: https://colab.research.google.com/drive/1LrC0EN6EH9iep9pCD9r_wpVV9ZsjP
 
 Lista: https://colab.research.google.com/drive/14PF_73lr6Ffd54IEbx2am6y8cTPAL4Y3?usp=sharing
 
+### Lista de Exercícios Condicionais
+
+Lista: https://colab.research.google.com/drive/1xNgDdjVWekMOirpEKfB5tXDsNYy0dspA?usp=sharing
+
