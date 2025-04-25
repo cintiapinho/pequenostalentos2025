@@ -19,3 +19,7 @@ Lista: https://colab.research.google.com/drive/14PF_73lr6Ffd54IEbx2am6y8cTPAL4Y3
 
 Lista: https://colab.research.google.com/drive/1xNgDdjVWekMOirpEKfB5tXDsNYy0dspA?usp=sharing
 
+### Listas - Tuplas e Dicionários
+
+Lista: https://colab.research.google.com/drive/1GPGsiY0gYXu08s3ZWijwQIKd4o02TIQk?usp=sharing
+
