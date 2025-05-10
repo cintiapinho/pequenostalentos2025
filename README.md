@@ -23,3 +23,8 @@ Lista: https://colab.research.google.com/drive/1xNgDdjVWekMOirpEKfB5tXDsNYy0dspA
 
 Lista: https://colab.research.google.com/drive/1GPGsiY0gYXu08s3ZWijwQIKd4o02TIQk?usp=sharing
 
+### Lista de exercícios Laços de Repetição
+
+Lista: https://colab.research.google.com/drive/10voMDMAF_fvFgpHO46wYKqBnp0PWiG88?usp=sharing
+
+
