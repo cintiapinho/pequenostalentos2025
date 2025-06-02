@@ -24,4 +24,10 @@ Lista: https://colab.research.google.com/drive/1GPGsiY0gYXu08s3ZWijwQIKd4o02TIQk
 
 Lista: https://colab.research.google.com/drive/10voMDMAF_fvFgpHO46wYKqBnp0PWiG88?usp=sharing
 
+### Workshop de IA
+
+Previsão de sentimento
+
+https://colab.research.google.com/drive/1MS_YNhC7T67KpnsvD0bnWn52lJ2ulQ3J?usp=sharing
+
 
