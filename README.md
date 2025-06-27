@@ -30,4 +30,10 @@ Previsão de sentimento
 
 https://colab.research.google.com/drive/1MS_YNhC7T67KpnsvD0bnWn52lJ2ulQ3J?usp=sharing
 
+Local para treinamento de Imagens
+
+https://teachablemachine.withgoogle.com/train/image
+
+
+
 
