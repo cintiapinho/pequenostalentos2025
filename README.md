@@ -34,8 +34,14 @@ Local para treinamento de Imagens
 
 https://teachablemachine.withgoogle.com/train/image
 
-Imagens
+Imagens vários bichos
 https://drive.google.com/drive/folders/142vHIaIATTWdalp-XCgmAODu6WIk2vao?usp=sharing
+
+Imagens só de gatos e cachorros
+
+http://bit.ly/3Ij3Sec
+
+
 
 
 
