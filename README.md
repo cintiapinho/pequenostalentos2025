@@ -45,6 +45,9 @@ http://bit.ly/3Ij3Sec
 ## Laços de Repetição
 https://colab.research.google.com/drive/1yhqVFbbvP7mx4NuuVt6p0izjGNFMNJeq?usp=sharing
 
+## Link aula Laço de repetição
+https://canva.link/aula05-pequenostalentos
+
 
 
 
