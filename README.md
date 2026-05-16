@@ -41,6 +41,10 @@ Imagens só de gatos e cachorros
 
 http://bit.ly/3Ij3Sec
 
+## 2026
+## Laços de Repetição
+https://colab.research.google.com/drive/1yhqVFbbvP7mx4NuuVt6p0izjGNFMNJeq?usp=sharing
+
 
 
 
